@@ -4,4 +4,9 @@ public class Login
 	{
 		System.out.println("FaceBook");
 	}
+
+	public void OTPLogin()
+	{
+		System.out.println("Using OTP");
+	}
 }
